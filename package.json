@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-test-project",
+  "version": "1.0.0",
+  "description": "Mircoverse Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvergos/Node.js-Project.git"
+  },
+  "author": "J.Vergos && N.Senounta <sancroth@gmail.com> (www.test.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvergos/Node.js-Project/issues"
+  },
+  "homepage": "https://github.com/jvergos/Node.js-Project#readme"
+}
