@@ -18,5 +18,7 @@
   "homepage": "https://github.com/jvergos/Node.js-Project#readme",
   "dependencies": {
     "express": "^4.15.2"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
